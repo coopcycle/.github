@@ -22,7 +22,7 @@ In a world dominated by large, centralized delivery platforms, CoopCycle offers 
 ## How to Get Involved:
 
 - **Contribute code:** Help us improve the CoopCycle platform by submitting pull requests, fixing bugs, and adding new features. Your expertise will shape the future of sustainable delivery services.
-- **Join the discussion:** Participate in our [community forums](https://github.com/coopcycle/coopcycle-web/discussions), share ideas, and engage with like-minded individuals. Together, we can drive positive change in the delivery ecosystem.
+- **Join the discussion:** Participate in our [community forums](https://github.com/orgs/coopcycle/discussions), share ideas, and engage with like-minded individuals. Together, we can drive positive change in the delivery ecosystem.
 - **Start a cooperative:** If you're part of a local cooperative or interested in starting one, CoopCycle provides the tools and support to launch your own delivery service and make a meaningful impact in your community.
 
 Join CoopCycle today and be part of a movement that empowers local communities, promotes fairness, and builds sustainable delivery networks. Together, we can reshape the future of last-mile delivery!
